@@ -1,3 +1,3 @@
 Git is a version control system
 git is a free software
-checkout
+create a new branch dev
